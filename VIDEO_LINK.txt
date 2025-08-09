@@ -1,0 +1,4 @@
+Project Demonstration Video Link:
+https://www.youtube.com/embed/94AMrsQl4YU
+
+Note: This video demonstrates the final Power BI dashboard, analysis, and findings for the project "Inflation Analysis: Journeying Through Global Economic Terrain".
